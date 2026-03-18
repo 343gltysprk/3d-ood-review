@@ -28,6 +28,7 @@
  + Robust Modality-Incomplete Anomaly Detection: A Modality-Instructive Framework with Benchmark [[ACM MM 2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3754766)
  + Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation [[ICCV 2025]](https://arxiv.org/abs/2505.24431)[[code]](https://github.com/ZZZBBBZZZ/PASDF)
  + PIRN: Prototypical-based Intra-modal Reconstruction with Normality Communication for Multi-modal Anomaly Detection [[ICLR 2026]](https://openreview.net/forum?id=7L7kmHHfgf)
+ + Hierarchical Point-Patch Fusion with Adaptive Patch Codebook for 3D Shape Anomaly Detection [[CVPR 2026]][[code]]([https://github.com/hustSYH/MVR](https://github.com/alexandor91/Shape-Anomaly-Codebook))
 
 ## BibTex Citation
 
