@@ -1,7 +1,7 @@
 # Out-of-distribution detection in 3D applications
 ### Autonomous Driving
-Revisiting Out-of-Distribution Detection in LiDAR-based 3D Object Detection [[IV 2024]](https://ieeexplore.ieee.org/document/10588849)[[code]](https://github.com/uulm-mrm/mmood3d)
-Spotting the Unexpected (STU): A 3D LiDAR Dataset for Anomaly Segmentation in Autonomous Driving [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Nekrasov_Spotting_the_Unexpected_STU_A_3D_LiDAR_Dataset_for_Anomaly_CVPR_2025_paper.pdf)[[code]](https://github.com/kumuji/stu_dataset)
+ + Revisiting Out-of-Distribution Detection in LiDAR-based 3D Object Detection [[IV 2024]](https://ieeexplore.ieee.org/document/10588849)[[code]](https://github.com/uulm-mrm/mmood3d)
+ + Spotting the Unexpected (STU): A 3D LiDAR Dataset for Anomaly Segmentation in Autonomous Driving [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Nekrasov_Spotting_the_Unexpected_STU_A_3D_LiDAR_Dataset_for_Anomaly_CVPR_2025_paper.pdf)[[code]](https://github.com/kumuji/stu_dataset)
 ### Industrial Anoamly Detection
  + Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS 2023]](https://arxiv.org/abs/2309.13226)[[code]](https://github.com/M-3LAB/Real3D-AD)
  + PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features [[2024]](https://arxiv.org/abs/2403.01804)
@@ -35,7 +35,7 @@ Spotting the Unexpected (STU): A 3D LiDAR Dataset for Anomaly Segmentation in Au
 
 ## BibTex Citation
 
-If you find this paper and repository useful, please cite ☺️.
+If you find this paper and repository useful, please consider citing ☺️.
 
 ```
 @misc{li2025outofdistributiondetection3dapplications,
