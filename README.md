@@ -23,7 +23,7 @@
  + Registration is a Powerful Rotation-Invariance Learner for 3D Anomaly Detection [[NeurIPS 2025]](https://arxiv.org/abs/2510.16865)
  + IEC3D-AD: A 3D Dataset of Industrial Equipment Components for Unsupervised Point Cloud Anomaly Detection [[2025]](https://arxiv.org/abs/2511.03267)
  + Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects [[AAAI 2026 oral]](https://arxiv.org/abs/2507.07435)[[code]](https://hustcyq.github.io/MiniShift-Simple3D/)
- + Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[2025]](https://arxiv.org/abs/2511.05853)[[code is comming]](https://github.com/Bingyang0410/CPS3D-Seg)
+ + Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[2025]](https://arxiv.org/abs/2511.05853)[[code]](https://github.com/Bingyang0410/CPS3D-Seg)
  + Multi-View Reconstruction with Global Context for 3D Anomaly Detection [[IEEE SMC 2025]](https://arxiv.org/abs/2507.21555)[[code]](https://github.com/hustSYH/MVR)
  + Robust Modality-Incomplete Anomaly Detection: A Modality-Instructive Framework with Benchmark [[ACM MM 2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3754766)
  + Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation [[ICCV 2025]](https://arxiv.org/abs/2505.24431)[[code]](https://github.com/ZZZBBBZZZ/PASDF)
