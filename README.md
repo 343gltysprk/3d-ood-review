@@ -1,7 +1,13 @@
 # Out-of-distribution detection in 3D applications
 ### Autonomous Driving
+ + Out-of-Distribution Detection for LiDAR-based 3D Object Detection [[ITSC 22]](https://arxiv.org/pdf/2209.14435)
+ + Open-world semantic segmentation for lidar point clouds. [[ECCV 2022]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980315.pdf) [[code]](https://github.com/Jun-CEN/Open-world-3D-semantic-segmentation)
+ + Out-of-distribution- and location-aware PointNets for real-time 3D road user detection without a GPU [[Big Data 2024]](https://link.springer.com/article/10.1186/s40537-023-00859-5)
+ + Open-set Semantic Segmentation for Point Clouds via Adversarial Prototype Framework. [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Open-Set_Semantic_Segmentation_for_Point_Clouds_via_Adversarial_Prototype_Framework_CVPR_2023_paper.pdf)
  + Revisiting Out-of-Distribution Detection in LiDAR-based 3D Object Detection [[IV 2024]](https://ieeexplore.ieee.org/document/10588849)[[code]](https://github.com/uulm-mrm/mmood3d)
+ + Contrastive Class Anchor Learning for Open Set Object Recognition in Driving Scenes [[TMLR 2024]](https://openreview.net/pdf?id=l0Uum9SJgM)[[code]](https://github.com/343gltysprk/s2ca)
  + Spotting the Unexpected (STU): A 3D LiDAR Dataset for Anomaly Segmentation in Autonomous Driving [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Nekrasov_Spotting_the_Unexpected_STU_A_3D_LiDAR_Dataset_for_Anomaly_CVPR_2025_paper.pdf)[[code]](https://github.com/kumuji/stu_dataset)
+ + Neural Distribution Prior for LiDAR Out-of-Distribution Detection [[Project Page]](https://cs-lzz.github.io/ndp-demo/)
 ### Industrial Anoamly Detection
  + Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS 2023]](https://arxiv.org/abs/2309.13226)[[code]](https://github.com/M-3LAB/Real3D-AD)
  + PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features [[2024]](https://arxiv.org/abs/2403.01804)
