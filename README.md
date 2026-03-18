@@ -6,6 +6,7 @@
  + Open-set Semantic Segmentation for Point Clouds via Adversarial Prototype Framework. [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Open-Set_Semantic_Segmentation_for_Point_Clouds_via_Adversarial_Prototype_Framework_CVPR_2023_paper.pdf)
  + Revisiting Out-of-Distribution Detection in LiDAR-based 3D Object Detection [[IV 2024]](https://ieeexplore.ieee.org/document/10588849)[[code]](https://github.com/uulm-mrm/mmood3d)
  + Contrastive Class Anchor Learning for Open Set Object Recognition in Driving Scenes [[TMLR 2024]](https://openreview.net/pdf?id=l0Uum9SJgM)[[code]](https://github.com/343gltysprk/s2ca)
+ + LiON: Learning Point-wise Abstaining Penalty for LiDAR Outlier DetectioN Using Diverse Synthetic Data [[AAAI 2025]](https://dl.acm.org/doi/10.1609/aaai.v39i9.32968)[[code]](https://github.com/Daniellli/LiON)
  + Spotting the Unexpected (STU): A 3D LiDAR Dataset for Anomaly Segmentation in Autonomous Driving [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Nekrasov_Spotting_the_Unexpected_STU_A_3D_LiDAR_Dataset_for_Anomaly_CVPR_2025_paper.pdf)[[code]](https://github.com/kumuji/stu_dataset)
  + Neural Distribution Prior for LiDAR Out-of-Distribution Detection [[Project Page]](https://cs-lzz.github.io/ndp-demo/)
 
@@ -41,7 +42,11 @@
  + Hierarchical Point-Patch Fusion with Adaptive Patch Codebook for 3D Shape Anomaly Detection [[CVPR 2026]][[code]](https://github.com/alexandor91/Shape-Anomaly-Codebook)
 
 ### Medical Imaging
-
++ Deep Autoencoding Models for Unsupervised Anomaly Segmentation in Brain MR Images [BrainLes 2018](https://link.springer.com/chapter/10.1007/978-3-030-11723-8_16)
++ Diffusion MRI anomaly detection in glioma patients [[Scientific Reports 23]][[code]](https://github.com/JarekE/Anomaly-detection-in-diffusion-MRI-for-brain-tumor-patients)
++ Accelerated cardiac diffusion tensor imaging using deep neural network [[PMB 23](https://doi.org/10.1088/1361-6560/acaa86)]
++ SHFormer: Dynamic spectral filtering convolutional neural network and high-pass kernel generation transformer for adaptive MRI reconstruction [[Neural Networks 2025](https://doi.org/10.1016/j.neunet.2025.107334)] [[code](https://github.com/sriprabhar/SHFormer)] 
++ LMO: Linear Mamba Operator for MRI Reconstruction [[CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_LMO_Linear_Mamba_Operator_for_MRI_Reconstruction_CVPR_2025_paper.pdf)] [[code](https://github.com/ZhengJianwei2/LMO)]
 ### Remote Sensing
 
 ## BibTex Citation
