@@ -43,12 +43,15 @@
 
 ### Medical Imaging
 + Deep Autoencoding Models for Unsupervised Anomaly Segmentation in Brain MR Images [BrainLes 2018](https://link.springer.com/chapter/10.1007/978-3-030-11723-8_16)
-+ Diffusion MRI anomaly detection in glioma patients [[Scientific Reports 23]][[code]](https://github.com/JarekE/Anomaly-detection-in-diffusion-MRI-for-brain-tumor-patients)
++ Diffusion MRI anomaly detection in glioma patients [[Scientific Reports 23]](https://www.nature.com/articles/s41598-023-47563-1)[[code]](https://github.com/JarekE/Anomaly-detection-in-diffusion-MRI-for-brain-tumor-patients)
 + Accelerated cardiac diffusion tensor imaging using deep neural network [[PMB 23](https://doi.org/10.1088/1361-6560/acaa86)]
 + SHFormer: Dynamic spectral filtering convolutional neural network and high-pass kernel generation transformer for adaptive MRI reconstruction [[Neural Networks 2025](https://doi.org/10.1016/j.neunet.2025.107334)] [[code](https://github.com/sriprabhar/SHFormer)] 
 + LMO: Linear Mamba Operator for MRI Reconstruction [[CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_LMO_Linear_Mamba_Operator_for_MRI_Reconstruction_CVPR_2025_paper.pdf)] [[code](https://github.com/ZhengJianwei2/LMO)]
 ### Remote Sensing
-
++ Few-Shot Hyperspectral Image Classification With Unknown Classes Using Multitask Deep Learning [[TGRS 2021]](https://arxiv.org/pdf/2009.03508)
++ An Advanced Dirichlet Prior Network for Out-of-Distribution Detection in Remote Sensing [TGRS 2022](https://ieeexplore.ieee.org/document/9668955)
++ Improving Out-of-Distribution Detection by Learning From the Deployment Environment [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2022](https://ieeexplore.ieee.org/document/9695222)
++ Few-Shot Open-Set Recognition of Hyperspectral Images With Outlier Calibration Network [WACV 2022](https://openaccess.thecvf.com/content/WACV2022/papers/Pal_Few-Shot_Open-Set_Recognition_of_Hyperspectral_Images_With_Outlier_Calibration_Network_WACV_2022_paper.pdf)
 ## BibTex Citation
 
 If you find this paper and repository useful, please consider citing:
