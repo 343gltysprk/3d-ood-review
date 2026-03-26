@@ -56,7 +56,7 @@
 # 4 Dataset
 | Dataset                | Data                | Time         |
 |------------------------|-------|--------------|
-| [Anomaly-ShapeNet](https://github.com/Chopper-233/Anomaly-ShapeNet)       |  Point-level mask  | Point-cloud synthetic | CVPR,2024    |
+| [Anomaly-ShapeNet](https://github.com/Chopper-233/Anomaly-ShapeNet)       | Point-cloud  | CVPR,2024    |
 | [Real-IAD](https://realiad4ad.github.io/Real-IAD/)               | RGB real         | CVPR,2024    |
 | [Real3D-AD](https://github.com/M-3LAB/Real3D-AD)              |  Point-cloud real       | NeurIPS,2023 |
 | [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad)               | Segmentation mask | RGB real         | CVPR,2019    |
